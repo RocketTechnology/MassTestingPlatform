@@ -51,7 +51,7 @@
         "jsvrcek/ics": "^0.5.1",
         "aws/aws-sdk-php": "^3.133",
         "dompdf/dompdf": "^0.8.5",
-        "phpseclib/phpseclib": "^2.0",
+        "phpseclib/phpseclib": "^3.0",
         "giggsey/libphonenumber-for-php": "^8.12",
         "respect/validation": "^1.1",
         "guzzlehttp/guzzle": "^6.0",
