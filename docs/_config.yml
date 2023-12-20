@@ -26,11 +26,8 @@ url: "https://www.masstestingplatform.com" # the base hostname & protocol for yo
 twitter_username: QLTechnology
 github_username:  QuickenLoans
 markdown: kramdown
-header_pages:
-  - MTP-RUNBOOK.md
-  - SCHEDULING-RUNBOOK.md
-  - TESTING-RUNBOOK.md
-  - DATA-RUNBOOK.md
+
+  
 
 # Build settings
 theme: minima
