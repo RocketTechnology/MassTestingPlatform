@@ -36,8 +36,6 @@ plugins:
 sass:
   style: compact # possible values: nested expanded compact compressed
 include:
-  - call_scripts/
-  - sample_files/
   - CNAME
 # Exclude from processing.
 # The following items will not be processed, by default.
