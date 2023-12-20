@@ -3,19 +3,7 @@
 
   <div class="wrapper">
     <div class="footer">
-      <div class="footer__column">
-        <ul class="footer__list">
-          <li>
-            <a class="footer__link" href="mailto:{{ site.email }}">
-              <svg class="footer__icon"><use xlink:href="#icon-mail4"></use></svg>
-              Email Us
-            </a>
-          </li>
-        </ul>
-        {%- include social.html -%}
-      </div>
-      <div class="footer__column">
-        <p class="footer__text">{{ site.description | escape }}</p>
+        <p class="footer__text dark fs-5">{{ site.description | escape }}</p>
         <p class="footer__text">Copyright 2020 Quicken Loans, subject to <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPL v3.0</a>. No warranties.</p>
       </div>
     </div>
