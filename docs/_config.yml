@@ -26,7 +26,6 @@ url: "https://www.masstestingplatform.com" # the base hostname & protocol for yo
 twitter_username: QLTechnology
 github_username:  QuickenLoans
 markdown: kramdown
-
   
 
 # Build settings
@@ -37,6 +36,7 @@ sass:
   style: compact # possible values: nested expanded compact compressed
 include:
   - CNAME
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -45,14 +45,31 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+#  EXCLUDING MOST OF THE SITE
+exclude:
+  - CONTRIBUTORS.md
+  - DATA-RUNBOOK.md
+  - MODIFICATIONS.md
+  - MTP-RUNBOOK.md
+  - SCHEDULING-RUNBOOK.md
+  - SITE-STAFFING-PLAN.md
+  - TESTING-RUNBOOK.md
+  - TRANSPORTATION.md
+  - sample_files/
+  - call_scripts/
+  - assets/javascript
+  - assets/images
+  - entrypoint.sh
+  - Gemfile
+  - Gemfile.lock
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
