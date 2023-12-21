@@ -4,7 +4,7 @@
   "description": "Healthcare Appointment & Scheduling Web Application",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QuickenLoans/MassTestingPlatform.git"
+    "url": "git+https://github.com/RocketTechnology/MassTestingPlatform.git"
   },
   "keywords": [
     "calendar",
@@ -17,10 +17,10 @@
     "covid19",
     "covid-19"
   ],
-  "author": "Quicken Loans",
+  "author": "Rocket Mortgage",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/QuickenLoans/MassTestingPlatform/issues"
+    "url": "https://github.com/RocketTechnology/MassTestingPlatform/issues"
   },
   "homepage": "https://www.masstestingplatform.com/",
   "devDependencies": {

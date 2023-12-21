@@ -18,7 +18,7 @@ Software that is needed to get started:
 #### Initial Steps
 
 1) Clone the repository to your local machine
-    * `git clone https://github.com/QuickenLoans/MassTestingPlatform`
+    * `git clone https://github.com/RocketTechnology/MassTestingPlatform`
 2) Enter the newly created directory
     * `cd MassTestingPlatform`
 3) Setup environment file
