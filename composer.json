@@ -1,5 +1,5 @@
 {
-    "name": "quickenloans/masstestingplatform",
+    "name": "RocketTechnology/masstestingplatform",
     "description": "Healthcare Appointment & Scheduling Web Application",
     "keywords": [
         "calendar",
@@ -17,8 +17,8 @@
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Quicken Loans",
-            "email": "masstestingplatform@quickenloans.com"
+            "name": "Rocket Mortgage",
+            "email": "RocketTechLibraries@rocketmortgage.com"
         }
     ],
     "scripts": {
@@ -32,9 +32,9 @@
         "test:standard": "vendor/bin/phpcs --standard=PSR2 src"
     },
     "support": {
-        "issues": "https://github.com/QuickenLoans/MassTestingPlatform/issues",
+        "issues": "https://github.com/RocketTechnology/MassTestingPlatform/issues",
         "wiki": "https://www.masstestingplatform.com/",
-        "source": "https://github.com/QuickenLoans/MassTestingPlatform"
+        "source": "https://github.com/RocketTechnology/MassTestingPlatform"
     },
     "minimum-stability": "stable",
     "require-dev": {

@@ -1,5 +1,7 @@
 # Mass Testing Platform [![Code Igniter](https://img.shields.io/badge/CodeIgniter-v3.1.6-red)](https://codeigniter.com) [![PHP](https://img.shields.io/badge/PHP-v7.0-green)](https://www.php.net) [![Node](https://img.shields.io/badge/Node-v8.6.0-green)](https://nodejs.org) [![License GPLv3](https://img.shields.io/badge/license-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![COVID-19](https://img.shields.io/badge/virus-free-brightgreen)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
+Originally developed by Rocket Mortgage, MassTestingPlatform was created with a specific focus on supporting COVID-19 vaccination testing efforts in Detroit during the height of the pandemic. The platform was designed to facilitate large-scale testing operations and played a crucial role in contributing to the efficient management of testing initiatives during a critical time. The initial development and subsequent open-sourcing were driven by the urgent need to address the challenges posed by the COVID-19 pandemic. While the platform remains available for use, there are no plans for ongoing updates or maintenance.
+
 Healthcare Appointment & Scheduling Web Application. Provides an easy way to schedule patients, providers, or businesses for mass drive through pandemic testing. Powered by Rocket Mortgage Technology and [Easy!Appointments](https://github.com/alextselegidis/easyappointments).  Runbooks for the end to end process which includes scheduling, test site logistics, and data orchestration, all can be found at [https://www.masstestingplatform.com/](https://www.masstestingplatform.com/)
 
 ## Getting Started
@@ -18,7 +20,7 @@ Software that is needed to get started:
 #### Initial Steps
 
 1) Clone the repository to your local machine
-    * `git clone https://github.com/QuickenLoans/MassTestingPlatform`
+    * `git clone https://github.com/RocketTechnology/MassTestingPlatform`
 2) Enter the newly created directory
     * `cd MassTestingPlatform`
 3) Setup environment file

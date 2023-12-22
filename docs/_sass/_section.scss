@@ -26,6 +26,10 @@
   }
 }
 
+.section--full_height {
+  flex: 1;
+}
+
 .section--gray-dark {
   background-color: $gray-dark;
   color: $white;
