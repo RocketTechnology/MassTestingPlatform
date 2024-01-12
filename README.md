@@ -80,7 +80,7 @@ After starting the docker containers, visit the following URL with password: `ve
 
 If you are having issues with your environment consider the following:
 
-1) Have you `fetched` and `pulled` down the `latest` master branch?
+1) Have you `fetched` and `pulled` down the `latest` main branch?
 2) Have you built the app lately? Run `./bin/build.sh` in the container.
 3) You can run `docker-compose build --no-cache --build-arg CERT_URL=` to force rebuild the containers.
 4) As a last resort, you can completely delete and start over using `docker rm -v mtp_database`. Use only if all options have been tried because this deletes the existing database.
